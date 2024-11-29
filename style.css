@@ -1,0 +1,53 @@
+body{
+    background-color: #4d495d;
+    font-family: Agency FB;
+}
+div{
+    border: 1px #c5ed00 solid;
+    text-align: center;
+    margin: 200px 580px;
+    background-color: #c5ed00;
+    border-radius: 12px;
+    width:300px ;
+    height: 400px;
+    font-family: Agency FB;
+}
+#user{
+    border: 2px solid white;
+    border-radius: 9px;
+    font-size: 30px;
+    font-family: Agency FB;
+    text-align: center;
+    outline: 0;
+    
+    
+
+}
+#pass{
+    border: 2px solid white;
+    border-radius: 9px;
+    font-size: 30px;
+    font-family: Agency FB;
+    text-align: center;
+    outline: 0;
+}
+#sub{
+    border: 2px solid black;
+    border-radius: 9px;
+    font-size: 30px;
+    font-family: Agency FB;
+    font-size: 40px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: all 140ms;
+}
+#sub:hover{
+    transform: scale(0.8);
+    
+}
+h1{
+    font-size: 40px;
+}
